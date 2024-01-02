@@ -4,3 +4,4 @@ streamlit
 plotly
 pydub==0.25.1
 imageio-ffmpeg
+ffmpeg-python==0.2.0
