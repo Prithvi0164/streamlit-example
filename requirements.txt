@@ -2,3 +2,4 @@ altair
 pandas
 streamlit
 plotly
+pydub==0.25.1
